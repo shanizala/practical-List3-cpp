@@ -8,8 +8,8 @@ struct student
 }; 
 int main() 
 { 
-cout<<"Pinak viradiya"<<endl;
-cout<<"220130318014"<<endl;
+cout<<"sani zalavadiya"<<endl;
+cout<<"220130318007"<<endl;
  cout<<sizeof(student); 
  return 0; 
 }
