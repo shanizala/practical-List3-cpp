@@ -12,8 +12,8 @@ struct Employee
 int main() {
     Employee emp1;
 
-cout<<"Pinak viradiya"<<endl;
-cout<<"220130318014"<<endl;
+cout<<"sani zalavadiya"<<endl;
+cout<<"220130318007"<<endl;
  
      emp1.emp_name = "pinak";
     emp1.emp_code = 1002;
