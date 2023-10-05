@@ -10,8 +10,8 @@ struct Student
 
 int main() {
        Student student;
-       cout<<"Pinak viradiya"<<endl;
-       cout<<"220130318014"<<endln;
+       cout<<"sani zalavadiya"<<endl;
+       cout<<"220130318007"<<endln;
      cout << "Enter name: ";
     getline(cin, student.name);
 
