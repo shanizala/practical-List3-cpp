@@ -16,8 +16,8 @@ public:
     }
 
     void displayDetails() {
-        cout<<"Pinak viradiya"<<endl;
-        cout<<"220130318014"<<endl;
+        cout<<"sani zalavadiya"<<endl;
+        cout<<"220130318007"<<endl;
         cout << "Name: " << name << endl;
         cout << "Age: " << age << endl;
         cout << "Salary: $" << salary << endl;
@@ -27,7 +27,7 @@ public:
 int main() {
     Employee emp1;  
     
-     emp1.setDetails("pinak", 30, 50000.50);
+     emp1.setDetails("sani", 30, 50000.50);
 
       emp1.displayDetails();
 
